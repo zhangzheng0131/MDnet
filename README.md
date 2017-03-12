@@ -1,4 +1,5 @@
-#zhangzheng# MDNet: Multi-Domain Convolutional Neural Network Tracker
+this is the first edition of MDnet created by zhangzheng on 2017/3/12
+## MDNet: Multi-Domain Convolutional Neural Network Tracker
 
 Created by [Hyeonseob Nam](https://kr.linkedin.com/in/hyeonseob-nam/) and [Bohyung Han](http://cvlab.postech.ac.kr/~bhhan/) at POSTECH
 
