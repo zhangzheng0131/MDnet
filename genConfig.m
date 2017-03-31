@@ -40,7 +40,7 @@ switch(dataset)
             case 'David'
                 config.imgList = config.imgList(300:end);
             case 'Tiger1'
-                config.imgList = config.imgList(6:end);
+                config.imgList = config.imgList(1:end);
         end
         
         % load gt
